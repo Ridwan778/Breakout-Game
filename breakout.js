@@ -111,7 +111,7 @@ function checkCollision(){
             
 
             // hitting the panel of the edge should affect the direction of the ball more severely than at the center
-            //this code is for that, finish it later
+            //this code is for that, would work on it when I can make time
             
             // Calculate impact position on the paddle
             let impactPosition = (currentBallPosition[0] - currentPlayerPosition[0]) / 100;
