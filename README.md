@@ -8,7 +8,7 @@ This project implements a classic Breakout game where a player controls a paddle
 
 ## Installation
 ###### Clone the repository:
-``` git clone https://github.com/your-username/breakout-game.git ```
+``` git clone https://github.com/Ridwan778/Breakout-Game.git ```
 
 ###### Starting the game:
 Navigate to the project folder and open the index.html file in a web browser to play the game.
